@@ -2,8 +2,6 @@
 
 A standalone **Starfield (PC)** interface fix that replaces incorrect Xbox-style controller prompts in the **Creations Menu** with proper **PS5 / DualSense glyphs**.
 
-**Author:** [VexenDeimos](https://github.com/VexenDeimos)
-
 This fix is also intended as an optional download on the **Starfield Advanced DualSense (SAD)** Nexus Mods page. **SAD is not required.** These incorrect prompts occur in the vanilla game; SAD does not cause them.
 
 ## Corrected buttons
