@@ -1,0 +1,21 @@
+# Never commit original or modified Bethesda game files
+fonts_en.gfx
+fonts_en.swf
+*.ba2
+Starfield.exe
+
+# Local builds, extracted sources, diagnostics
+/dist/
+/input/
+/tmp/
+*.log
+*.pyc
+__pycache__/
+*Probe*.zip
+*Result*.zip
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
